@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[LinkedId](https://www.linkedin.com/in/jaime-pinto-perez/)
+[CV](https://docs.google.com/document/d/1ftTAjMVE7bOJvFH02VXdWzxkOlEcYwPnqmi5WTMw4Uo/edit?usp=sharing)
+
 <!--
 **JaimePintoP/JaimePintoP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
